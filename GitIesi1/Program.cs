@@ -13,7 +13,10 @@ namespace GitIesi1
             int a, b;
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
-            Console.WriteLine($"{a} {b}");
+            //S1REN код
+            Console.WriteLine($"{a}+{b}");
+            Console.WriteLine($"{a}-{b}");
+            Console.WriteLine($"{a}*{b}");
         }
     }
 }
