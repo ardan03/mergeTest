@@ -1,0 +1,7 @@
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\bin\Debug\GitIesi1.exe.config
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\bin\Debug\GitIesi1.exe
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\bin\Debug\GitIesi1.pdb
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\obj\Debug\GitIesi1.csproj.AssemblyReference.cache
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\obj\Debug\GitIesi1.csproj.CoreCompileInputs.cache
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\obj\Debug\GitIesi1.exe
+C:\Users\ardan\source\repos\GitIesi1\GitIesi1\obj\Debug\GitIesi1.pdb
