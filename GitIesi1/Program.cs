@@ -8,6 +8,10 @@ namespace GitIesi1
 {
     internal class Program
     {
+        public static int addgition(int a, int b)
+        {
+            return a + b;
+        }
         static void Main(string[] args)
         {
             int a, b;
@@ -17,6 +21,7 @@ namespace GitIesi1
             Console.WriteLine($"{a}+{b}");
             Console.WriteLine($"{a}-{b}");
             Console.WriteLine($"{a}*{b}");
+            Console.WriteLine(addgition(a,b));
         }
     }
 }
